@@ -3,7 +3,7 @@
 ¡Bienvenido al repositorio oficial de **Reset RP**!  
 Reset RP es un servidor de roleplay ambientado en GTA V, donde la inmersión, la narrativa y la comunidad son nuestras prioridades.  
 
-> 🌐 Visita nuestra normativa: [docs.resetrp.net](https://docs.resetrp.net)
+> 🌐 Visita nuestra normativa: [https://resetrp.net/normativas](https://resetrp.net/normativas)
 
 ---
 
@@ -34,7 +34,7 @@ Este GitHub incluye:
 
 Antes de interactuar con cualquier contenido del servidor o de unirte a la comunidad, **lee atentamente la normativa oficial**:
 
-👉 [https://docs.resetrp.net](https://docs.resetrp.net)
+👉 [https://resetrp.net/normativas](https://resetrp.net/normativas)
 
 ---
 
@@ -52,7 +52,7 @@ Antes de interactuar con cualquier contenido del servidor o de unirte a la comun
 
 - 🌍 Web: [resetrp.net](https://resetrp.net)
 - 🎮 Discord: [resetrp.net/discord](https://resetrp.net/discord)
-- 📜 Normativa: [docs.resetrp.net](https://docs.resetrp.net)
+- 📜 Normativa: [https://resetrp.net/normativas](https://resetrp.net/normativas)
 
 ---
 
